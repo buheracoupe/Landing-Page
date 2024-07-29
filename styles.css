@@ -13,11 +13,20 @@ font-weight: 600;}
 nav{display: flex;
 align-items: center;}
 main{ width: 100vw;
-    height: 75vh;
+    height: 200em;
     display:flex;
     flex-direction:column;
 background-color: #66666E;}
 #welcome, quote{background-color: #66666E;}
 section{flex: 1;}
 #offers, #products{background-color:#E6E6E9;}
-.footer{background-color: #66666E;}
+footer{background-color: #66666E;
+height: 6em;}
+a i{ color: white;}
+.icons { display: flex;
+justify-content: center;
+gap: 1em;
+font-size: 2em;
+padding: 5px;}
+.copyright p{text-align: center;
+    color: white;}
