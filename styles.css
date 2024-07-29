@@ -1,0 +1,23 @@
+header{ display: flex;
+justify-content: space-between;
+background-color: #E6E6E9;}
+nav ul{list-style: none;
+display: flex;
+gap: 5rem;
+margin-right: 2rem;
+font-size: 18px;}
+
+ul a{text-decoration: none;
+color: black;
+font-weight: 600;}
+nav{display: flex;
+align-items: center;}
+main{ width: 100vw;
+    height: 75vh;
+    display:flex;
+    flex-direction:column;
+background-color: #66666E;}
+#welcome, quote{background-color: #66666E;}
+section{flex: 1;}
+#offers, #products{background-color:#E6E6E9;}
+.footer{background-color: #66666E;}
