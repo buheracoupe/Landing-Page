@@ -13,7 +13,7 @@ font-weight: 600;}
 nav{display: flex;
 align-items: center;}
 main{ width: 100vw;
-    height: 200em;
+    height: 70em;
     display:flex;
     flex-direction:column;
 background-color: #66666E;}
